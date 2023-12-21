@@ -13,7 +13,9 @@ Develop a Flutter application that meets the following specifications: Begin by 
   <img src="https://github.com/AyaAbdElmoneim158/GRIP_Banking_system/assets/114832629/3a282ea3-50c1-4caf-8b2d-aa65fb00e65b" title="Home screen" width="200px" height="auto"> 
       &emsp;&emsp;&emsp;
   <img src="https://github.com/AyaAbdElmoneim158/GRIP_Banking_system/assets/114832629/121a9077-36a9-4344-ada4-6e27d725340a" title="Transfer Screen" width="200px" height="auto">
-  &emsp;&emsp;&emsp;
+ </div>
+<br>
+<div align="center">
   <img src="https://github.com/AyaAbdElmoneim158/GRIP_Banking_system/assets/114832629/3329bebc-6303-43a9-9dc4-4f83d5f4cf3f" title="User Details Screen" width="200px" height="auto"> 
       &emsp;&emsp;&emsp;
   <img src="https://github.com/AyaAbdElmoneim158/GRIP_Banking_system/assets/114832629/76b70885-7e43-4750-8941-950f94d2aeee" title="Transfer Form Screen" width="200px" height="auto"> 
